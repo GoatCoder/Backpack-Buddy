@@ -7,5 +7,6 @@ namespace Backpack_Buddy.Entities
         int Size;
 
         List<GearItem> Gear;
+        List<FoodItem> Food;
     }
 }
