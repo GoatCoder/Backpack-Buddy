@@ -6,5 +6,6 @@
         string PhoneNumber;
         string Email;
         int Weight;
+        Backpack Backpack;
     }
 }
